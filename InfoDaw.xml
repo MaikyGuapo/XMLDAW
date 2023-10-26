@@ -1,0 +1,98 @@
+# XMLDAW
+Has d'idear i emplenar amb la informació pertinent un XML ben format que: continga la informació sobre el CFGS-DAW.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<informacio_curricular>
+  <familia_professional>Informàtica i comunicacions</familia_professional>
+  <rd>RD 686/2010, de 20 de maig</rd>
+  <curriculum_cv>ORDE 60/2012, de 25 de setembre</curriculum_cv>
+  <horari>Grau Superior 2000 hores</horari>
+  
+  <ocupacions>
+    <ocupacio>Programador Web</ocupacio>
+    <ocupacio>Programador Multimèdia</ocupacio>
+    <ocupacio>Desenvolupador d'aplicacions en entorns Web</ocupacio>
+  </ocupacions>
+  
+  <moduls_professionals>
+    <primer_curs>
+      <modul>
+        <codi>MP01</codi>
+        <nom>Llenguatges de marques i sistemes de gestió d'informació</nom>
+        <durada>200 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP02</codi>
+        <nom>Sistemes informàtics</nom>
+        <durada>220 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP03</codi>
+        <nom>Bases de dades</nom>
+        <durada>180 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP04</codi>
+        <nom>Programació</nom>
+        <durada>240 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP05</codi>
+        <nom>Entorns de desenrotllament</nom>
+        <durada>160 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP06</codi>
+        <nom>Formació i orientació laboral</nom>
+        <durada>80 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP07</codi>
+        <nom>Horari reservat per al mòdul impartit en anglés</nom>
+        <durada>120 hores</durada>
+      </modul>
+    </primer_curs>
+    <segon_curs>
+      <modul>
+        <codi>MP08</codi>
+        <nom>Desenrotllament web en entorn client</nom>
+        <durada>220 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP09</codi>
+        <nom>Desenrotllament web en entorn servidor</nom>
+        <durada>240 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP10</codi>
+        <nom>Desplegament d'aplicacions web</nom>
+        <durada>250 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP11</codi>
+        <nom>Disseny d'interfícies web</nom>
+        <durada>180 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP12</codi>
+        <nom>Projecte de Desenrotllament d'aplicacions web</nom>
+        <durada>150 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP13</codi>
+        <nom>Empresa i iniciativa emprenedora</nom>
+        <durada>120 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP14</codi>
+        <nom>Horari reservat per al mòdul impartit en anglés</nom>
+        <durada>80 hores</durada>
+      </modul>
+      <modul>
+        <codi>MP15</codi>
+        <nom>Formació en Centres de Treball</nom>
+        <durada>320 hores</durada>
+      </modul>
+    </segon_curs>
+  </moduls_professionals>
+</informacio_curricular>
